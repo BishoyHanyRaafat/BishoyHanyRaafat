@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BishoyHanyRaafat
-- 👀 I’m interested in python and discord. Py
-- 🌱 I’m currently learning discord.p
-- 💞️ I’m looking to collaborate on discord.py
+- 👀 I’m interested in python javascript and machine learning
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on any project
 - 📫 My website is bhrbishoy.pythonanywhere.com 
 
 <!---
