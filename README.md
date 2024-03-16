@@ -2,7 +2,6 @@
 - 👀 I’m interested in python javascript and machine learning
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any project
-- 📫 My website is bhrbishoy.pythonanywhere.com 
 
 <!---
 BishoyHanyRaafat/BishoyHanyRaafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
