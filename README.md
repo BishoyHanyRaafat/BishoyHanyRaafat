@@ -1,9 +1,54 @@
-- 👋 Hi, I’m @BishoyHanyRaafat
-- 👀 I’m interested in python javascript and machine learning
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any project
+# Hello there ! 🌟
 
-<!---
-BishoyHanyRaafat/BishoyHanyRaafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Hello There](https://github.com/user-attachments/assets/a4f68df5-3239-49bc-941c-3231258a86ff)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/Bishoyai)
+[![Linkedin: Bishoy](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/bishoy-hany-raafat/)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:bishoyhany006@gmail.com)
+
+## About Me
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Bishoy Hany Raafat"
+        self.role = "Software Engineer"
+        self.languages_spoken = ["Arabic (Egypt)", "English (US)"]
+        self.programming_languages = ["Python", "JavaScript", "TypeScript", "Go", "Lua", "Dart"]
+
+    def hi(self):
+        print(f"Hello! My name is {self.name} and I am a {self.role}.")
+
+    def display_languages_spoken(self):
+        print("Languages I speak:")
+        for language in self.languages_spoken:
+            print(f"- {language}")
+
+    def display_programming_languages(self):
+        print("Programming languages I know:")
+        for language in self.programming_languages:
+            print(f"- {language}")
+
+
+me = SoftwareEngineer()
+
+me.hi()
+me.display_languages_spoken()
+me.display_programming_languages()
+
+```
+
+
+## Fun Facts 🎉
+
+- I once wrote a Python script to automate my coffee brewing process. ☕
+- My code editor theme is darker than my sense of humor. 😄
+- I believe that semicolons are optional, but coffee is not. 😉
+
+
