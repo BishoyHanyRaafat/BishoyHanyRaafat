@@ -4,7 +4,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/Bishoyai)
-[![Linkedin: Bishoy](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/bishoy-hany-raafat/)
+[![Linkedin: Bishoy](https://img.shields.io/badge/-Bishoy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishoy-hany-raafat/)](https://www.linkedin.com/in/bishoy-hany-raafat/)
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:bishoyhany006@gmail.com)
 
 ## About Me
