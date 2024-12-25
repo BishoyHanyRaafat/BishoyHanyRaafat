@@ -20,7 +20,7 @@ class SoftwareEngineer:
         self.name = "Bishoy Hany Raafat"
         self.role = "Software Engineer"
         self.languages_spoken = ["Arabic (Egypt)", "English (US)"]
-        self.programming_languages = ["Python", "JavaScript", "TypeScript", "Go", "Lua", "Dart"]
+        self.programming_languages = ["Python", "JavaScript", "TypeScript", "Go", "Lua", "Dart", "C++"]
 
     def hi(self):
         print(f"Hello! My name is {self.name} and I am a {self.role}.")
